@@ -2,4 +2,4 @@
 
 ## Links
 
-* course: https://www.pce.uw.edu/courses/data-science-methods-for-data-analysis
+* course: <https://www.pce.uw.edu/courses/data-science-methods-for-data-analysis>
