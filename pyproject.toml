@@ -9,10 +9,12 @@ readme = "README.md"
 python = "^3.11"
 ipykernel = "^6.29.1"
 numpy = "^1.26.4"
-pandas = "^2.2.0"
+pandas = {extras = ["parquet"], version = "^2.2.1"}
 seaborn = "^0.13.2"
 scikit-learn = "^1.4.0"
 notebook = "^7.0.7"
+xgboost = "^2.0.3"
+imblearn = "^0.0"
 
 
 [build-system]
