@@ -16,6 +16,8 @@ notebook = "^7.0.7"
 xgboost = "^2.0.3"
 imblearn = "^0.0"
 statsmodels = "^0.14.1"
+mlxtend = "^0.23.1"
+openpyxl = "^3.1.2"
 
 
 [build-system]
